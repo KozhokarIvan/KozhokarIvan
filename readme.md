@@ -7,7 +7,7 @@
 <img align="left" style="margin-left: 10px;" title="Visual Studio" alt="Visual Studio" width="50px" src="./icons/visualstudio-plain.svg">
 <img align="left" style="margin-left: 10px;" title="Git" alt="Git" width="50px" src="./icons/git-original.svg">
 <img align="left" style="margin-left: 10px;" title="Github" alt="Github" width="50px" src="./icons/github-original-wordmark.svg">
-<img align="left" style="margin-left: 10px;" title="MySQL" alt="MYSQL" width="50px" src="./icons/mysql-plain.svg">
+<img align="left" style="margin-left: 10px;" title="SQL" alt="MYSQL" width="50px" src="./icons/postgresql-plain-wordmark.svg">
 <img align="left" style="margin-left: 10px;" title="HTML5" alt="HTML5" width="50px" src="./icons/html5-plain-wordmark.svg">
 <img align="left" style="margin-left: 10px;" title="CSS3" alt="CSS3" width="50px" src="./icons/css3-plain-wordmark.svg">
 <img align="left" style="margin-left: 10px;" title="JS" alt="JS" width="50px" src="./icons/javascript-plain.svg">
