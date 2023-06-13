@@ -15,13 +15,54 @@
 <br><br><br>
 </p>
 
-## In the future I am willing to 
-- Improve my understanding of:
+# My Projects:
+
+## [VR Users network - currently under development](https://github.com/KozhokarIvan/ProjectVR)
+My cleanest project so far. Will be the largest aswell
+- 
+    - C# 11 / .NET 7
+    - ASP.NET Web API 
+    - Entity Framework Core
+    - PostgreSQL
+    - Docker
+    - React
+> Some of these might not be currently implemented, check current project state :)  
+
+
+
+
+## [WonderlandChip WEB API - March, 2023](https://github.com/KozhokarIvan/WonderlandChip)
+
+A great practice, even though it is just a restful API without anything special. Currently my largest project in terms of code
+- 
+    - C# 10 / .NET 6
+    - ASP.NET Web API 
+    - Entity Framework Core
+    - MSSQL
+    - Docker
+
+
+
+
+# Test assignments:
+
+## [A CRUD for test assignment - May, 2023](https://github.com/KozhokarIvan/Test-Assignment)
+I used
+-   
+    - C# 11 / .NET 7
+    - ASP.NET Web API 
+    - Swagger
+    - JWT auth
+    - Entity Framework Core
+    - PostgreSQL
+    - Docker
+
+# Current goals
+- Improve my skills on:
     - 
         - Design patterns
         - Testing (unit, integration)
         - Project structure approaches
-        - CI/CD
         - Docker 
 - Take part in
     -   
@@ -29,7 +70,7 @@
         - Team development
 - Learn
     -
-        - Automapper
-        - React / Angular / Vue (one of, preference is React for now)
-# My Projects:
-## [WonderlandChip WEB API - March, 2023](https://github.com/KozhokarIvan/WonderlandChip)
+        - React
+        - Typescript
+        - Microservices (on demand)
+        - Anything else I will or might need (on demand)
